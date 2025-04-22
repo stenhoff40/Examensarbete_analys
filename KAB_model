@@ -2,9 +2,9 @@ digraph G {
 	overlap=scale splines=true
 	edge [fontsize=12]
 	node [fillcolor="#cae6df" shape=circle style=filled]
-	Knowledge [label=Knowledge]
-	Attitude [label=Attitude]
 	Behavior [label=Behavior]
+	Attitude [label=Attitude]
+	Knowledge [label=Knowledge]
 	node [shape=box style=""]
 	A1 [label=A1]
 	A10 [label=A10]
